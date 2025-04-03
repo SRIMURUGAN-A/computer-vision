@@ -16,3 +16,10 @@ https://github.com/SRIMURUGAN-A/computer-vision/issues/3
 
 lab 4:
 https://github.com/SRIMURUGAN-A/computer-vision/issues/4
+
+
+lab 5:
+https://github.com/SRIMURUGAN-A/computer-vision/issues/5
+
+lab 6:
+
