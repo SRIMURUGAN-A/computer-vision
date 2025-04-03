@@ -1,6 +1,12 @@
 # computer-vision
-**This file contain repo! contain my 6 semester computer vision program**
+**This repository! contain my 6th semester computer vision programs and out-put**
+
+
 lab 1:
 https://github.com/SRIMURUGAN-A/computer-vision/issues/1
+
+
 lab 2:
 https://github.com/SRIMURUGAN-A/computer-vision/issues/2
+
+
