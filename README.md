@@ -22,4 +22,4 @@ lab 5:
 https://github.com/SRIMURUGAN-A/computer-vision/issues/5
 
 lab 6:
-
+https://github.com/SRIMURUGAN-A/computer-vision/issues/6
