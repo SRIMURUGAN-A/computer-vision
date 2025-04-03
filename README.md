@@ -10,3 +10,5 @@ lab 2:
 https://github.com/SRIMURUGAN-A/computer-vision/issues/2
 
 
+lab 3:
+https://github.com/SRIMURUGAN-A/computer-vision/issues/3
